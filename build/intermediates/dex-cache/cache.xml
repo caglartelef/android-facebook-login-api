@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_13780fd11d948cc5744eec6847adbf4c7a3b1da9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_03335359c5f936959ff33d4cd31f8c7bfd14a243\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_18cda254bf55ebd7b8aba5b1475968c976839bb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_5c2662ec9781295acf0cbadd13201fa5e9df3f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_0b68542cd68b017782c323ebf3eab3a723a15870\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.19.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.19.0_236cc1536c050cb082bcbbb5e82ee4cc4ffc02d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0411de1219206ebc3a50ae9afc3f4d963d581764\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_37597d7fe740ef57d2f956a1042e0620eede998f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_76ceb912aba1df871430d4a573918198ccf25d50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_0e965d54910136b90a882b7268ab9fb6ae73c0c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_07186c69789c362b0d3b6530fc623a13eabdcd10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_11a7356df6da48d736b34c9d9fdbfedcbfbb9335\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_9a405768079028c1134d24029ea5be57480f499f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_ed11cd930c899eda67733b6429692dcd67ed39f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="58d3d418e67d0e8afb02a025c50540b73749171a">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_59cb9495a956c47989f831fb594c52e468d0116e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9654cdff056d92d006914de7a1c43d0d4633cfc">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b56f2c7901283fffa32387bf3ff11b2fddfdab13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c18eb110995154a6114640f31da11a82e667caf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_63a9a65599987ecfc3c779179a21b38793a911bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_cd6e0c9426f6abed6d20f3c8d318cd0f3de3e3e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_ecbf56ac4994ac8d3b2fe0ec218ab6b602669f18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_ec5d19831d21ce4d5e1d7fd40b785a6bd7241119\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\CAGLARTELEF\AndroidStudioProjects\fblogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_10d014f0817d44f174ba3f5f95ab8e7e4f098488\classes.dex" />
+    </item>
+
+</items>
